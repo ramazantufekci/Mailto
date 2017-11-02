@@ -1,0 +1,6 @@
+C:\Users\ramazan\Documents\SharpDevelop Projects\Mailto\Mailto\bin\Debug\Mailto.exe.config
+C:\Users\ramazan\Documents\SharpDevelop Projects\Mailto\Mailto\bin\Debug\Mailto.exe
+C:\Users\ramazan\Documents\SharpDevelop Projects\Mailto\Mailto\bin\Debug\Mailto.pdb
+C:\Users\ramazan\Documents\SharpDevelop Projects\Mailto\Mailto\obj\Debug\Mailto.csprojResolveAssemblyReference.cache
+C:\Users\ramazan\Documents\SharpDevelop Projects\Mailto\Mailto\obj\Debug\Mailto.exe
+C:\Users\ramazan\Documents\SharpDevelop Projects\Mailto\Mailto\obj\Debug\Mailto.pdb
