@@ -4,7 +4,7 @@
 
 Program windows makinelerde komut satırından mail atmanıza olanak tanır.
 
-Programın bulunduğu satırdaki ayar.xml dosyasını kendi mail ayarlarınıza göre yapılandırmanız gerekli.
+Programın bulunduğu klasörde ayar.xml dosyasını kendi mail ayarlarınıza göre yapılandırmanız gerekli.
 ```
 Kullanımı mailto.exe konu="Deneme konusu" msj="mesaj içeriği" alici="info@example.com;ik@example.com"
 ```
