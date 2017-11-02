@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<gonderen>info@example.com</gonderen>
+	<smtpAdres>smtp.example.com</smtpAdres>
+	<kullanici>info@example.com</kullanici>
+	<sifre>123456</sifre>
+</root>
