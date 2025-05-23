@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <gonderen>sender@example.com</gonderen>
+    <smtpAdres>smtp.example.com:587</smtpAdres> <!-- Or smtp.example.com if your server uses implicit SSL on port 465 -->
+    <kullanici>your_username</kullanici>
+    <sifre>your_password</sifre>
+</root>
